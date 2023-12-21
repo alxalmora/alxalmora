@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alxalmora (Alex Almora)
 - 👀 I’m interested in Backend Development with Ruby On Rails, Ruby and Python. Sometimes I made some Frontend with Angular or React.
 - 🌱 I’m currently learning React, Docker and AWS Architecture (ECS With Fargate). I want to migrate from Heroku to AWS.
-- I'm working at Kueski as Software Engineer (Ruby Backend).
+- I'm working at Amazon as Software Development Engineer II.
 - 📫 How to reach me: my mail is alxalmora@gmail.com
 - I'm Applied Mathematician and Computer Engineer.
 
